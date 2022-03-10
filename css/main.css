@@ -418,7 +418,7 @@ body {
 }
 
 .sec__item:nth-child(3) {
-  background-image: url("/images/spe2.jpg");
+  background-image: url("/images/spe7.jpg");
   z-index: 3;
 }
 
@@ -428,7 +428,7 @@ body {
 }
 
 .sec__item:nth-child(5) {
-  background-image: url("/images/spe7.jpg");
+  background-image: url("/images/spe2.jpg");
   z-index: 1;
 }
 
