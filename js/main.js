@@ -27,10 +27,10 @@ elRightBtn.addEventListener("click", () => {
     elItem2.style.transform = "translateY(-100%)";
     elItem2.style.transition = "all .5s ease";
 
-    elSection.style.backgroundImage = "url('/images/spe2.jpg')";
+    elSection.style.backgroundImage = "url('/images/spe7.jpg')";
     elSection.style.transition = "all .9s ease";
 
-    elSec_lis.style.boxShadow = "0px 0px 100px 70px rgba(189, 186, 186, 0.719)";
+    elSec_lis.style.boxShadow = "0px 0px 100px 70px rgba(26, 145, 201, 0.877)";
     elSec_lis.style.transition = "all .5s ease";
 
     nat += 1
@@ -49,10 +49,10 @@ elRightBtn.addEventListener("click", () => {
     elItem4.style.transform = "translateY(100%)";
     elItem4.style.transition = "all .5s ease";
 
-    elSection.style.backgroundImage = "url('/images/spe7.jpg')";
+    elSection.style.backgroundImage = "url('/images/spe2.jpg')";
     elSection.style.transition = "all .9s ease";
 
-    elSec_lis.style.boxShadow = "0px 0px 100px 70px rgba(26, 145, 201, 0.877)";
+    elSec_lis.style.boxShadow = "0px 0px 100px 70px rgba(189, 186, 186, 0.719)";
     elSec_lis.style.transition = "all .5s ease";
 
     nat += 1
@@ -64,10 +64,10 @@ elLeftBtn.addEventListener("click", () => {
     elItem5.style.transform = "translateX(0)";
     elItem5.style.transition = "all .5s ease";
 
-    elSection.style.backgroundImage = "url('/images/spe7.jpg')";
+    elSection.style.backgroundImage = "url('/images/spe2.jpg')";
     elSection.style.transition = "all .9s ease";
 
-    elSec_lis.style.boxShadow = "0px 0px 100px 70px rgba(26, 145, 201, 0.877)";
+    elSec_lis.style.boxShadow = "0px 0px 100px 70px rgba(189, 186, 186, 0.719)";
     elSec_lis.style.transition = "all .5s ease";
 
     nat -= 1
@@ -86,10 +86,10 @@ elLeftBtn.addEventListener("click", () => {
     elItem3.style.transform = "translateX(0)";
     elItem3.style.transition = "all .5s ease";
 
-    elSection.style.backgroundImage = "url('/images/spe2.jpg')";
+    elSection.style.backgroundImage = "url('/images/spe7.jpg')";
     elSection.style.transition = "all .9s ease";
 
-    elSec_lis.style.boxShadow = "0px 0px 100px 70px rgba(189, 186, 186, 0.719)";
+    elSec_lis.style.boxShadow = "0px 0px 100px 70px rgba(26, 145, 201, 0.877)";
     elSec_lis.style.transition = "all .5s ease";
 
     nat -= 1
